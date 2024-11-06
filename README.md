@@ -1,8 +1,8 @@
-## A - Project : Medicament mention pipeline
+## A - Project : Drug mention pipeline
 
 ### Description
 
-This project is designed to implement a data pipeline to process medicament mentions in various scientific publications. 
+This project is designed to implement a data pipeline to process drug mentions in various scientific publications. 
 The pipeline processes data from several sources, performs data cleansing and transformation, and produces a structured JSON output representing drug mentions across various scientific publications.
 
 ### Pipeline Overview
