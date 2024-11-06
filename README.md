@@ -31,8 +31,8 @@ The repo is tested in `Python 3.12.1` on Windows 11
 Clone project from Github
 ```
 # Clone project from github
-git clone https://github.com/mykyrychenko/medicament-mention-pipeline.git
-cd medicament-mention-pipeline
+git clone https://github.com/mykyrychenko/drug-mention-pipeline.git
+cd drug-mention-pipeline
 ```
 Set up the environnement
 ```
@@ -66,7 +66,7 @@ Locate the Executable
 ## E - Usage
 
 Note that you can have access to compiled versions : 
-[Link](https://github.com/mykyrychenko/medicament-mention-pipeline/releases)
+[Link](https://github.com/mykyrychenko/drug-mention-pipeline/releases)
 
 ### 1/ Run pipeline from code
 
@@ -74,14 +74,14 @@ Once the environment is set up
 Run the pipeline as below
 ```
 # Start pipeline
-cd ./medicament-mention-pipeline
+cd ./drug-mention-pipeline
 python ./run_pipeline.py
 ```
 
 ### 2/ Run Server from compiled version
-on Windows (binaries [Link](https://github.com/mykyrychenko/medicament-mention-pipeline/releases)
+on Windows (binaries [Link](https://github.com/mykyrychenko/drug-mention-pipeline/releases)
 ) :
-Run run_pipeline.exe from ./medicament-mention-pipeline
+Run run_pipeline.exe from ./drug-mention-pipeline
 
 ## F - Output
 Pipeline generates an output json file ./output_data/drug_mentions.json.  
