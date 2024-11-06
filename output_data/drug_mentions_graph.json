@@ -1,0 +1,206 @@
+[
+    {
+        "drug": "ATROPINE",
+        "mentions": [
+            {
+                "journal": "The journal of maternal-fetal & neonatal medicine",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "03-01-2020",
+                            "id": null
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "drug": "BETAMETHASONE",
+        "mentions": [
+            {
+                "journal": "The journal of maternal-fetal & neonatal medicine",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "01-01-2020",
+                            "id": "10"
+                        },
+                        {
+                            "date": "03-01-2020",
+                            "id": null
+                        }
+                    ]
+                }
+            },
+            {
+                "journal": "Journal of back and musculoskeletal rehabilitation",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "01-01-2020",
+                            "id": "11"
+                        }
+                    ]
+                }
+            },
+            {
+                "journal": "H\u00f4pitaux Universitaires de Gen\u00e8ve",
+                "publication_type": {
+                    "clinical_trials": [
+                        {
+                            "date": "01-01-2020",
+                            "id": "NCT04153396"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "drug": "DIPHENHYDRAMINE",
+        "mentions": [
+            {
+                "journal": "Journal of emergency nursing",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "01-01-2019",
+                            "id": "1"
+                        },
+                        {
+                            "date": "01-01-2019",
+                            "id": "2"
+                        }
+                    ],
+                    "clinical_trials": [
+                        {
+                            "date": "01-01-2020",
+                            "id": "NCT01967433"
+                        },
+                        {
+                            "date": "01-01-2020",
+                            "id": "NCT04189588"
+                        },
+                        {
+                            "date": "01-01-2020",
+                            "id": "NCT04237091"
+                        }
+                    ]
+                }
+            },
+            {
+                "journal": "The Journal of pediatrics",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "01-02-2019",
+                            "id": "3"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "drug": "EPINEPHRINE",
+        "mentions": [
+            {
+                "journal": "The journal of allergy and clinical immunology. In practice",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "02-01-2020",
+                            "id": "7"
+                        },
+                        {
+                            "date": "03-01-2020",
+                            "id": "8"
+                        }
+                    ]
+                }
+            },
+            {
+                "journal": "Journal of emergency nursing(",
+                "publication_type": {
+                    "clinical_trials": [
+                        {
+                            "date": "27-04-2020",
+                            "id": "NCT04188184"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "drug": "ETHANOL",
+        "mentions": [
+            {
+                "journal": "Psychopharmacology",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "01-01-2020",
+                            "id": "6"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "drug": "ISOPRENALINE",
+        "mentions": [
+            {
+                "journal": "Journal of photochemistry and photobiology. B, Biology",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "01-01-2020",
+                            "id": "9"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "drug": "TETRACYCLINE",
+        "mentions": [
+            {
+                "journal": "Journal of food protection",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "01-01-2020",
+                            "id": "4"
+                        }
+                    ]
+                }
+            },
+            {
+                "journal": "American journal of veterinary research",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "01-02-2020",
+                            "id": "5"
+                        }
+                    ]
+                }
+            },
+            {
+                "journal": "Psychopharmacology",
+                "publication_type": {
+                    "pubmed": [
+                        {
+                            "date": "01-01-2020",
+                            "id": "6"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]
